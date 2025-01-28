@@ -1,0 +1,39 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="font-family:Tahoma;font-size:10pt;border-collapse:collapse;">
+		<caption align="Left">
+			<strong>Exporta&#231;&#227;o de Recebimentos Movimenta&#231;&#245;es<br />Mairon em 28.01.2025 &#224;s 12:49<br />&nbsp;</strong>
+		</caption><tr valign="middle" style="font-weight:bold;height:25px;">
+			<th scope="col">Transacao</th><th scope="col">Descricao</th><th scope="col">Nome-ou-Razao-Social</th><th scope="col">Valor</th><th scope="col">Pagamento</th>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 13:14:23</td><td>Pix Online</td><td>Marluce Werpp Brasil</td><td>202,00</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 17:57:59</td><td>Dinheiro</td><td>Leonardo Sperb Lopes da Silva</td><td>129,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 19:04:56</td><td>M&#225;quina</td><td>Os&#233;ias Benitt Dutra</td><td>30,00</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 19:16:41</td><td>M&#225;quina</td><td>Eliezer Michelon Torres</td><td>169,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 20:52:55</td><td>M&#225;quina</td><td>Leonardo da Silveira Souto</td><td>159,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 21:09:59</td><td>M&#225;quina</td><td>Nicoly Carlina Ram&#227;o</td><td>30,00</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 14:43:07</td><td>M&#225;quina</td><td>Dalva Maria Costa Santos</td><td>838,80</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 09:54:54</td><td>M&#225;quina</td><td>Lucca de Cargo Silva</td><td>129,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 14:58:30</td><td>M&#225;quina</td><td>Paloma da Silva Alves</td><td>1050,00</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 14:59:43</td><td>M&#225;quina</td><td>Felipe da Silva Alves</td><td>1050,00</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 17:55:38</td><td>M&#225;quina</td><td>Amanda da Rocha</td><td>169,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 14:59:30</td><td>Pix</td><td>Felipe da Silva Alves</td><td>28,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 12:56:49</td><td>Pix</td><td>Lucia Maier dos Santos</td><td>179,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 14:58:12</td><td>Pix</td><td>Paloma da Silva Alves</td><td>28,90</td><td>27/01/2025</td>
+		</tr><tr valign="middle" style="height:25px;">
+			<td>27/01/2025 21:20:15</td><td>Pix</td><td>Gislaine Ferraz Bernardes Hirsch</td><td>25,00</td><td>27/01/2025</td>
+		</tr>
+	</table>
+</div>
